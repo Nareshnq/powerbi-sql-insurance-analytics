@@ -22,7 +22,7 @@ Use refresh when:
 - existing rows are updated/deleted
 - you want visuals to recalculate with latest data
 
-✅ Scheduled refresh updates the dataset and visuals automatically.
+ Scheduled refresh updates the dataset and visuals automatically.
 
 ### Republish (Report / Model Changes)
 Republish when:
@@ -30,7 +30,7 @@ Republish when:
 - you add/edit DAX measures or calculated columns
 - you change Power Query steps or add tables/columns
 
-✅ Republish updates the report/model definition in Power BI Service.
+ Republish updates the report/model definition in Power BI Service.
 
 ---
 
